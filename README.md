@@ -11,8 +11,8 @@ A collection of awesome things regarding DSPy.
 
 
 
-### Blogs
-
+### Blogs / Articles
+- [Prompt engineering is a task best left to AI models](https://www.theregister.com/2024/02/22/prompt_engineering_ai_models/)
 
 ### Videos
 - [DSPy: Transforming Language Model Calls into Smart Pipelines // Omar Khattab](https://www.youtube.com/watch?v=NoaDWKHdkHg&t=3281s&ab_channel=MLOps.community)
@@ -20,6 +20,5 @@ A collection of awesome things regarding DSPy.
 - [DSPy Explained! // Connor Shorten](https://www.youtube.com/watch?v=41EfOY0Ldkc&t=788s&ab_channel=ConnorShorten)
 - [Programming Foundation Models with DSPy / Multivector Semantic Search with ColBERT - Omar Khattab](https://www.youtube.com/watch?v=Y94tw4eDHW0&ab_channel=Cohere)
 - [Getting Started with RAG in DSPy! // Connor Shorten](https://www.youtube.com/watch?v=CEuUG4Umfxs&t=60s&ab_channel=ConnorShorten)
-- 
 
 ### Tutorials
