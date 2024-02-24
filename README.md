@@ -5,14 +5,21 @@ A collection of awesome things regarding DSPy.
 ## [DSPy](https://github.com/stanfordnlp/dspy) - A library for compiling declarative language model calls into self-improving pipelines.
 
 - [Official Documentation](https://dspy-docs.vercel.app/)
+
+
 ### Projects
 
 - [XMC](https://github.com/KarelDO/xmc.dspy) - Infer Retrieve Rank multi-label classification tasks with an extreme amount of classes (≥10,000 classes)
+- [dspy-arxiv](https://github.com/S1M0N38/dspy-arxiv) - Explore the use of DSPy for extracting features from PDFs
 
 
 
 ### Blogs / Articles
 - [Prompt engineering is a task best left to AI models](https://www.theregister.com/2024/02/22/prompt_engineering_ai_models/)
+- [What makes DSPy a valuable framework for developing complex language model pipelines?](https://medium.com/@sujathamudadla1213/what-makes-dspy-a-valuable-framework-for-developing-complex-language-model-pipelines-edfa5b4bcf9b)
+- [DSPy: A new framework to program your foundation models just by prompting](https://www.linkedin.com/pulse/dspy-new-framework-program-your-foundation-models-just-prompting-lli4c/?trk=organization_guest_main-feed-card_feed-article-content)
+
+
 
 ### Videos
 - [DSPy: Transforming Language Model Calls into Smart Pipelines // Omar Khattab](https://www.youtube.com/watch?v=NoaDWKHdkHg&t=3281s&ab_channel=MLOps.community)
@@ -22,3 +29,8 @@ A collection of awesome things regarding DSPy.
 - [Getting Started with RAG in DSPy! // Connor Shorten](https://www.youtube.com/watch?v=CEuUG4Umfxs&t=60s&ab_channel=ConnorShorten)
 
 ### Tutorials
+
+
+### Papers
+
+- [DSPy Assertions:Computational Constraints for Self-Refining Language Model Pipelines](https://arxiv.org/pdf/2312.13382.pdf)
