@@ -36,6 +36,7 @@ Resources
 
 ### Tutorials
 
+- [Weaviate Recipes - DSPy](https://github.com/weaviate/recipes/tree/main/integrations/dspy)
 
 ### Papers
 
