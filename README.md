@@ -12,6 +12,9 @@ A collection of awesome things regarding DSPy.
 - [XMC](https://github.com/KarelDO/xmc.dspy) - Infer Retrieve Rank multi-label classification tasks with an extreme amount of classes (≥10,000 classes)
 - [dspy-arxiv](https://github.com/S1M0N38/dspy-arxiv) - Explore the use of DSPy for extracting features from PDFs
 - [DSPyGen](https://github.com/seanchatmangpt/dspygen) - A Ruby on Rails style framework for the DSPy (Demonstrate, Search, Predict) project for Language Models like GPT, BERT, and LLama.
+- [dspy-inspector](https://github.com/Neoxelox/dspy-inspector) - DSPy program/pipeline inspector widget for Jupyter/VSCode Notebooks.
+
+
 
 Resources
 
