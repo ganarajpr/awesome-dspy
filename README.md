@@ -13,6 +13,7 @@ A collection of awesome things regarding DSPy.
 - [dspy-arxiv](https://github.com/S1M0N38/dspy-arxiv) - Explore the use of DSPy for extracting features from PDFs
 - [DSPyGen](https://github.com/seanchatmangpt/dspygen) - A Ruby on Rails style framework for the DSPy (Demonstrate, Search, Predict) project for Language Models like GPT, BERT, and LLama.
 - [dspy-inspector](https://github.com/Neoxelox/dspy-inspector) - DSPy program/pipeline inspector widget for Jupyter/VSCode Notebooks.
+- [Storm](https://github.com/jmanhype/Storm) - STORM, a writing system for the Synthesis of Topic Outlines through Retrieval and Multi-perspective Question Asking. [Paper](https://arxiv.org/abs/2402.14207)
 
 
 
