@@ -32,11 +32,13 @@ Resources
 
 
 ### Videos
-- [DSPy: Transforming Language Model Calls into Smart Pipelines // Omar Khattab](https://www.youtube.com/watch?v=NoaDWKHdkHg&t=3281s&ab_channel=MLOps.community)
-- [Omar Khattab, DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines](https://www.youtube.com/watch?v=Dt3H2ninoeY&ab_channel=FunctionalTV)
-- [DSPy Explained! // Connor Shorten](https://www.youtube.com/watch?v=41EfOY0Ldkc&t=788s&ab_channel=ConnorShorten)
-- [Programming Foundation Models with DSPy / Multivector Semantic Search with ColBERT - Omar Khattab](https://www.youtube.com/watch?v=Y94tw4eDHW0&ab_channel=Cohere)
-- [Getting Started with RAG in DSPy! // Connor Shorten](https://www.youtube.com/watch?v=CEuUG4Umfxs&t=60s&ab_channel=ConnorShorten)
+- [DSPy: Transforming Language Model Calls into Smart Pipelines // Omar Khattab - MLOps.community](https://www.youtube.com/watch?v=NoaDWKHdkHg&t=3281s&ab_channel=MLOps.community)
+- [Omar Khattab, DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines - FunctionalTV](https://www.youtube.com/watch?v=Dt3H2ninoeY&ab_channel=FunctionalTV)
+- [DSPy Explained! - Connor Shorten](https://www.youtube.com/watch?v=41EfOY0Ldkc&t=788s&ab_channel=ConnorShorten)
+- [Programming Foundation Models with DSPy / Multivector Semantic Search with ColBERT // Omar Khattab -- Cohere](https://www.youtube.com/watch?v=Y94tw4eDHW0&ab_channel=Cohere)
+- [Getting Started with RAG in DSPy! - Connor Shorten](https://www.youtube.com/watch?v=CEuUG4Umfxs&t=60s&ab_channel=ConnorShorten)
+- [Getting started with DSPy tutorial - QDrant](https://www.youtube.com/watch?v=f_7oLIF6X9o&ab_channel=Qdrant)
+- [NEW DSPyG: DSPy combined w/ Graph Optimizer in PyG - code_your_own_AI](https://www.youtube.com/watch?v=rqR3LeR09gc&t=588s&ab_channel=code_your_own_AI)
 
 ### Tutorials
 
