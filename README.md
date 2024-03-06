@@ -16,7 +16,7 @@ A collection of awesome things regarding DSPy.
 - [Storm](https://github.com/jmanhype/Storm) - STORM, a writing system for the Synthesis of Topic Outlines through Retrieval and Multi-perspective Question Asking. [Paper](https://arxiv.org/abs/2402.14207)
 - [DSPy with FASTAPI](https://github.com/diicellman/dspy-rag-fastapi) - a straightforward example of building a FastAPI backend with DSPy capabilities.
 - [DSPy OpenTOM](https://github.com/vintrocode/dspy-opentom) - Exploration using DSPy to optimize modules to maximize performance on the OpenToM dataset.
-- [Self Discover](https://colab.research.google.com/drive/1GkAQKmw1XQgg5UNzzy8OncRe79V6pADB?usp=sharing) - SELF-DISCOVER: Large Language Models Self-Compose Reasoning Structures [Paper](https://arxiv.org/abs/2402.03620)
+- [Self Discover](https://colab.research.google.com/drive/1GkAQKmw1XQgg5UNzzy8OncRe79V6pADB?usp=sharing) - SELF-DISCOVER: Large Language Models Self-Compose Reasoning Structures [Paper](https://arxiv.org/abs/2402.03620) [Video](https://www.youtube.com/watch?v=iC64q1gFWiY&ab_channel=Weaviate%E2%80%A2VectorDatabase)
 
 
 
