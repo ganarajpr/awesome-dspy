@@ -41,7 +41,8 @@ Resources
 - [Getting Started with RAG in DSPy! - Connor Shorten](https://www.youtube.com/watch?v=CEuUG4Umfxs&t=60s&ab_channel=ConnorShorten)
 - [Getting started with DSPy tutorial - QDrant](https://www.youtube.com/watch?v=f_7oLIF6X9o&ab_channel=Qdrant)
 - [NEW DSPyG: DSPy combined w/ Graph Optimizer in PyG - code_your_own_AI](https://www.youtube.com/watch?v=rqR3LeR09gc&t=588s&ab_channel=code_your_own_AI)
-- [Adding Depth to DSPy Programs](https://www.youtube.com/watch?v=0c7Ksd6BG88&t=1111s&ab_channel=ConnorShorten) - In depth on DSPy optimiser. 
+- [Adding Depth to DSPy Programs](https://www.youtube.com/watch?v=0c7Ksd6BG88&t=1111s&ab_channel=ConnorShorten) - In depth on DSPy optimiser.
+- [Self-Discover in DSPy with Chris Dossman - Weaviate Podcast #90!](https://www.youtube.com/watch?v=iC64q1gFWiY&ab_channel=Weaviate%E2%80%A2VectorDatabase)
 
 ### Tutorials
 
