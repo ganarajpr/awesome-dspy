@@ -45,6 +45,12 @@ Resources
 - [NEW DSPyG: DSPy combined w/ Graph Optimizer in PyG - code_your_own_AI](https://www.youtube.com/watch?v=rqR3LeR09gc&t=588s&ab_channel=code_your_own_AI)
 - [Adding Depth to DSPy Programs](https://www.youtube.com/watch?v=0c7Ksd6BG88&t=1111s&ab_channel=ConnorShorten) - In depth on DSPy optimiser.
 - [Self-Discover in DSPy with Chris Dossman - Weaviate Podcast #90!](https://www.youtube.com/watch?v=iC64q1gFWiY&ab_channel=Weaviate%E2%80%A2VectorDatabase)
+- [Can You Tell Me About DSPy Optimizers: How Module Signatures & Prompts Are Modified by Optimizers](https://www.youtube.com/watch?v=bzgWbCeC0iw&ab_channel=KamalrajMM) - Best explanation of DSPy Optimizers I have seen. 
+- [Can You Tell Me About DSPy: How DSPy Automates Prompt Engineering Modularly](https://www.youtube.com/watch?v=zBb8XQZ4ksI&ab_channel=KamalrajMM)
+- [Introducing 7 Modules Their Application & Prompts in DSPY: Can You Tell Me About DSPy Modules](https://www.youtube.com/watch?v=b2N01VnDego&ab_channel=KamalrajMM)
+- [Can You Tell Me How To Connect Multiple Open Source Models With DSPy & Run Inference With Predict](https://www.youtube.com/watch?v=ELyk69DCiGQ&ab_channel=KamalrajMM)
+- [DSPy Tutorial Playlist: Goes in depth on Signatures, Modules, Optimizers](https://www.youtube.com/watch?v=zBb8XQZ4ksI&list=PLbzjzOKeYPCqoCjk_rTuZA1Qobq5_D_hX&ab_channel=KamalrajMM)
+
 
 ### Tutorials
 
