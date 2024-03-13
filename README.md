@@ -17,7 +17,7 @@ A collection of awesome things regarding DSPy.
 - [DSPy with FASTAPI](https://github.com/diicellman/dspy-rag-fastapi) - a straightforward example of building a FastAPI backend with DSPy capabilities.
 - [DSPy OpenTOM](https://github.com/vintrocode/dspy-opentom) - Exploration using DSPy to optimize modules to maximize performance on the OpenToM dataset.
 - [Self Discover](https://colab.research.google.com/drive/1GkAQKmw1XQgg5UNzzy8OncRe79V6pADB?usp=sharing) - SELF-DISCOVER: Large Language Models Self-Compose Reasoning Structures [Paper](https://arxiv.org/abs/2402.03620) [Video](https://www.youtube.com/watch?v=iC64q1gFWiY&ab_channel=Weaviate%E2%80%A2VectorDatabase)
-- [RAG example using DSPy, Gradio, FastAPI](https://github.com/diicellman/dspy-gradio-rag)
+- [dspy-gradio-rag](https://github.com/diicellman/dspy-gradio-rag) - RAG example using DSPy, Gradio, FastAPI
 
 
 
