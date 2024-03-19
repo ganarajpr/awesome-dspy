@@ -19,7 +19,8 @@ A collection of awesome things regarding DSPy.
 - [Self Discover](https://colab.research.google.com/drive/1GkAQKmw1XQgg5UNzzy8OncRe79V6pADB?usp=sharing) - SELF-DISCOVER: Large Language Models Self-Compose Reasoning Structures [Paper](https://arxiv.org/abs/2402.03620) [Video](https://www.youtube.com/watch?v=iC64q1gFWiY&ab_channel=Weaviate%E2%80%A2VectorDatabase)
 - [dspy-gradio-rag](https://github.com/diicellman/dspy-gradio-rag) - RAG example using DSPy, Gradio, FastAPI
 - [Synthesizer](https://colab.research.google.com/drive/1CweVOu0qhTC0yOfW5QkLDRIKuAuWJKEr?usp=sharing#scrollTo=Th6MmBEiznK3) - Synthetic data generation colab.
-- [Self Discover Colab](https://colab.research.google.com/drive/1GkAQKmw1XQgg5UNzzy8OncRe79V6pADB?usp=sharing) - Self Discover demo using Colab. 
+- [Self Discover Colab](https://colab.research.google.com/drive/1GkAQKmw1XQgg5UNzzy8OncRe79V6pADB?usp=sharing) - Self Discover demo using Colab.
+- [Hurricane](https://github.com/weaviate-tutorials/Hurricane) - Writing Blog Posts with Generative Feedback Loops!
 
 
 
