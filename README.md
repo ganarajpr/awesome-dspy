@@ -23,12 +23,6 @@ A collection of awesome things regarding DSPy.
 - [Hurricane](https://github.com/weaviate-tutorials/Hurricane) - Writing Blog Posts with Generative Feedback Loops!
 
 
-
-Resources
-
-
-
-
 ### Blogs / Articles
 - [Prompt engineering is a task best left to AI models](https://www.theregister.com/2024/02/22/prompt_engineering_ai_models/)
 - [What makes DSPy a valuable framework for developing complex language model pipelines?](https://medium.com/@sujathamudadla1213/what-makes-dspy-a-valuable-framework-for-developing-complex-language-model-pipelines-edfa5b4bcf9b)
