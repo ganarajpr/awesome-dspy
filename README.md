@@ -30,6 +30,7 @@ A collection of awesome things regarding DSPy.
 - [Intro to DSPy: Goodbye Prompting, Hello Programming](https://medium.com/towards-data-science/intro-to-dspy-goodbye-prompting-hello-programming-4ca1c6ce3eb9)
 - [DSPyGen: Revolutionizing AI](https://www.linkedin.com/pulse/launch-alert-dspygen-20242252-revolutionizing-ai-sean-chatman--g9f1c/?trk=article-ssr-frontend-pulse_more-articles_related-content-card)
 - [Building an AI Assistant with DSPy](https://www.linkedin.com/pulse/building-ai-assistant-dspy-valliappa-lakshmanan-vgnsc/?trackingId=Gn5TWFiY%2FUjo9FlydGla%2FA%3D%3D)
+- [Hurricane: Writing Blog Posts with Generative Feedback Loops](https://weaviate.io/blog/hurricane-generative-feedback-loops)
 
 
 
