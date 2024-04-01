@@ -31,6 +31,7 @@ A collection of awesome things regarding DSPy.
 - [DSPyGen: Revolutionizing AI](https://www.linkedin.com/pulse/launch-alert-dspygen-20242252-revolutionizing-ai-sean-chatman--g9f1c/?trk=article-ssr-frontend-pulse_more-articles_related-content-card)
 - [Building an AI Assistant with DSPy](https://www.linkedin.com/pulse/building-ai-assistant-dspy-valliappa-lakshmanan-vgnsc/?trackingId=Gn5TWFiY%2FUjo9FlydGla%2FA%3D%3D)
 - [Hurricane: Writing Blog Posts with Generative Feedback Loops](https://weaviate.io/blog/hurricane-generative-feedback-loops)
+- [DSPy - Not your average prompt engineering](https://jina.ai/news/dspy-not-your-average-prompt-engineering/)
 
 
 
@@ -49,6 +50,7 @@ A collection of awesome things regarding DSPy.
 - [Introducing 7 Modules Their Application & Prompts in DSPY: Can You Tell Me About DSPy Modules](https://www.youtube.com/watch?v=b2N01VnDego&ab_channel=KamalrajMM)
 - [Can You Tell Me How To Connect Multiple Open Source Models With DSPy & Run Inference With Predict](https://www.youtube.com/watch?v=ELyk69DCiGQ&ab_channel=KamalrajMM)
 - [DSPy Tutorial Playlist: Goes in depth on Signatures, Modules, Optimizers](https://www.youtube.com/watch?v=zBb8XQZ4ksI&list=PLbzjzOKeYPCqoCjk_rTuZA1Qobq5_D_hX&ab_channel=KamalrajMM)
+- [Structured Outputs with DSPy - Connor Shorten](https://www.youtube.com/watch?v=tVw3CwrN5-8&ab_channel=ConnorShorten)
 
 
 ### Tutorials
