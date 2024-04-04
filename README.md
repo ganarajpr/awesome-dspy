@@ -51,6 +51,7 @@ A collection of awesome things regarding DSPy.
 - [Can You Tell Me How To Connect Multiple Open Source Models With DSPy & Run Inference With Predict](https://www.youtube.com/watch?v=ELyk69DCiGQ&ab_channel=KamalrajMM)
 - [DSPy Tutorial Playlist: Goes in depth on Signatures, Modules, Optimizers](https://www.youtube.com/watch?v=zBb8XQZ4ksI&list=PLbzjzOKeYPCqoCjk_rTuZA1Qobq5_D_hX&ab_channel=KamalrajMM)
 - [Structured Outputs with DSPy - Connor Shorten](https://www.youtube.com/watch?v=tVw3CwrN5-8&ab_channel=ConnorShorten)
+- [DSPy Assertions: Computational Constraints for Self-Refining LM Pipelines // Arnav Singhvi](https://www.youtube.com/watch?v=NRc-y5Y70xU&ab_channel=MLOps.community)
 
 
 ### Tutorials
