@@ -32,6 +32,7 @@ A collection of awesome things regarding DSPy.
 - [Building an AI Assistant with DSPy](https://www.linkedin.com/pulse/building-ai-assistant-dspy-valliappa-lakshmanan-vgnsc/?trackingId=Gn5TWFiY%2FUjo9FlydGla%2FA%3D%3D)
 - [Hurricane: Writing Blog Posts with Generative Feedback Loops](https://weaviate.io/blog/hurricane-generative-feedback-loops)
 - [DSPy - Not your average prompt engineering](https://jina.ai/news/dspy-not-your-average-prompt-engineering/)
+- [Red-Teaming Language Models with DSPy](https://blog.haizelabs.com/posts/dspy/)
 
 
 
