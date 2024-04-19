@@ -37,6 +37,9 @@ A collection of awesome things regarding DSPy.
 - [Red-Teaming Language Models with DSPy](https://blog.haizelabs.com/posts/dspy/)
 - [DSPy on Databricks](https://www.databricks.com/blog/dspy-databricks)
 
+### Twitter Threads
+- [Collection of compilers in DSPy](https://twitter.com/ecardenas300/status/1780631627275571471)
+
 
 
 ### Videos
