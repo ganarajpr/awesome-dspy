@@ -22,7 +22,8 @@ A collection of awesome things regarding DSPy.
 - [Self Discover Colab](https://colab.research.google.com/drive/1GkAQKmw1XQgg5UNzzy8OncRe79V6pADB?usp=sharing) - Self Discover demo using Colab.
 - [Hurricane](https://github.com/weaviate-tutorials/Hurricane) - Writing Blog Posts with Generative Feedback Loops!
 - [DSPy Red Team](https://github.com/haizelabs/dspy-redteam) - Red teaming / Finding a Prompt attack for an LLM using DSPy. [Article](https://blog.haizelabs.com/posts/dspy/)
-- [DSPy Indic](https://github.com/saifulhaq95/DSPy-Indic) - DSPy program for tasks in Indian Languages. 
+- [DSPy Indic](https://github.com/saifulhaq95/DSPy-Indic) - DSPy program for tasks in Indian Languages.
+- [DSPy with LLamaIndex](https://github.com/Pavankunchala/LLM-Learn-PK/tree/main/DSP/DSPy_llamaIndex)
 
 
 ### Blogs / Articles
