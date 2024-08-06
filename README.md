@@ -24,6 +24,8 @@ A collection of awesome things regarding DSPy.
 - [DSPy Red Team](https://github.com/haizelabs/dspy-redteam) - Red teaming / Finding a Prompt attack for an LLM using DSPy. [Article](https://blog.haizelabs.com/posts/dspy/)
 - [DSPy Indic](https://github.com/saifulhaq95/DSPy-Indic) - DSPy program for tasks in Indian Languages.
 - [DSPy with LLamaIndex](https://github.com/Pavankunchala/LLM-Learn-PK/tree/main/DSP/DSPy_llamaIndex)
+- [DSPy with Arize-Phoenix])(https://github.com/Arize-ai/phoenix/blob/cf97ddc438fd0e075f87b156a99cc930d4b31ca9/docs/tracing/integrations-tracing/dspy.md)
+- [OpenInference DSPy Instrumentation](https://github.com/Arize-ai/openinference/tree/main/python/instrumentation/openinference-instrumentation-dspy)
 
 
 ### Blogs / Articles
@@ -38,6 +40,7 @@ A collection of awesome things regarding DSPy.
 - [Red-Teaming Language Models with DSPy](https://blog.haizelabs.com/posts/dspy/)
 - [DSPy on Databricks](https://www.databricks.com/blog/dspy-databricks)
 - [Decision making ai agent with DSPY](https://www.lycee.ai/blog/decision-making-ai-agent-dspy)
+- [DSPy Assertions: Discussing Computational Constraints for Self-Refining Language Model Pipelines](https://arize.com/blog/dspy-assertions-computational-constraints/)
 
 ### Twitter Threads
 - [Collection of compilers in DSPy](https://twitter.com/ecardenas300/status/1780631627275571471)
@@ -46,6 +49,7 @@ A collection of awesome things regarding DSPy.
 
 
 ### Videos
+- [Automating Prompt Engineering with DSPy // Cyrus Nouroozi, Contributor at DSPy - Arize:Observe](https://www.youtube.com/watch?v=q_hTvyBeKAc)
 - [DSPy: Transforming Language Model Calls into Smart Pipelines // Omar Khattab - MLOps.community](https://www.youtube.com/watch?v=NoaDWKHdkHg&t=3281s&ab_channel=MLOps.community)
 - [Omar Khattab, DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines - FunctionalTV](https://www.youtube.com/watch?v=Dt3H2ninoeY&ab_channel=FunctionalTV)
 - [DSPy Explained! - Connor Shorten](https://www.youtube.com/watch?v=41EfOY0Ldkc&t=788s&ab_channel=ConnorShorten)
