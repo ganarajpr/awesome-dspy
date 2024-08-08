@@ -13,7 +13,7 @@ A collection of awesome things regarding DSPy.
 - [dspy-arxiv](https://github.com/S1M0N38/dspy-arxiv) - Explore the use of DSPy for extracting features from PDFs
 - [DSPyGen](https://github.com/seanchatmangpt/dspygen) - A Ruby on Rails style framework for the DSPy (Demonstrate, Search, Predict) project for Language Models like GPT, BERT, and LLama.
 - [dspy-inspector](https://github.com/Neoxelox/dspy-inspector) - DSPy program/pipeline inspector widget for Jupyter/VSCode Notebooks.
-- [Storm](https://github.com/jmanhype/Storm) - STORM, a writing system for the Synthesis of Topic Outlines through Retrieval and Multi-perspective Question Asking. [Paper](https://arxiv.org/abs/2402.14207)
+- [STORM](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. [Paper](https://arxiv.org/abs/2402.14207)
 - [DSPy with FASTAPI](https://github.com/diicellman/dspy-rag-fastapi) - a straightforward example of building a FastAPI backend with DSPy capabilities.
 - [DSPy OpenTOM](https://github.com/vintrocode/dspy-opentom) - Exploration using DSPy to optimize modules to maximize performance on the OpenToM dataset.
 - [Self Discover](https://colab.research.google.com/drive/1GkAQKmw1XQgg5UNzzy8OncRe79V6pADB?usp=sharing) - SELF-DISCOVER: Large Language Models Self-Compose Reasoning Structures [Paper](https://arxiv.org/abs/2402.03620) [Video](https://www.youtube.com/watch?v=iC64q1gFWiY&ab_channel=Weaviate%E2%80%A2VectorDatabase)
@@ -59,7 +59,7 @@ A collection of awesome things regarding DSPy.
 - [NEW DSPyG: DSPy combined w/ Graph Optimizer in PyG - code_your_own_AI](https://www.youtube.com/watch?v=rqR3LeR09gc&t=588s&ab_channel=code_your_own_AI)
 - [Adding Depth to DSPy Programs](https://www.youtube.com/watch?v=0c7Ksd6BG88&t=1111s&ab_channel=ConnorShorten) - In depth on DSPy optimiser.
 - [Self-Discover in DSPy with Chris Dossman - Weaviate Podcast #90!](https://www.youtube.com/watch?v=iC64q1gFWiY&ab_channel=Weaviate%E2%80%A2VectorDatabase)
-- [Can You Tell Me About DSPy Optimizers: How Module Signatures & Prompts Are Modified by Optimizers](https://www.youtube.com/watch?v=bzgWbCeC0iw&ab_channel=KamalrajMM) - Best explanation of DSPy Optimizers I have seen. 
+- [Can You Tell Me About DSPy Optimizers: How Module Signatures & Prompts Are Modified by Optimizers](https://www.youtube.com/watch?v=bzgWbCeC0iw&ab_channel=KamalrajMM) - Best explanation of DSPy Optimizers I have seen.
 - [Can You Tell Me About DSPy: How DSPy Automates Prompt Engineering Modularly](https://www.youtube.com/watch?v=zBb8XQZ4ksI&ab_channel=KamalrajMM)
 - [Introducing 7 Modules Their Application & Prompts in DSPY: Can You Tell Me About DSPy Modules](https://www.youtube.com/watch?v=b2N01VnDego&ab_channel=KamalrajMM)
 - [Can You Tell Me How To Connect Multiple Open Source Models With DSPy & Run Inference With Predict](https://www.youtube.com/watch?v=ELyk69DCiGQ&ab_channel=KamalrajMM)
