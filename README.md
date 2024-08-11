@@ -41,10 +41,12 @@ A collection of awesome things regarding DSPy.
 - [DSPy on Databricks](https://www.databricks.com/blog/dspy-databricks)
 - [Decision making ai agent with DSPY](https://www.lycee.ai/blog/decision-making-ai-agent-dspy)
 - [DSPy Assertions: Discussing Computational Constraints for Self-Refining Language Model Pipelines](https://arize.com/blog/dspy-assertions-computational-constraints/)
+- [Why I bet on DSPy](https://blog.isaacmiller.dev/posts/dspy)
 
 ### Twitter Threads
 - [Collection of compilers in DSPy](https://twitter.com/ecardenas300/status/1780631627275571471)
 - [Improve Agent accuracy with DSPy](https://twitter.com/lateinteraction/status/1781026667798138962)
+- 
 
 
 
