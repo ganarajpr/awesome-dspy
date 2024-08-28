@@ -24,7 +24,7 @@ A collection of awesome things regarding DSPy.
 - [DSPy Red Team](https://github.com/haizelabs/dspy-redteam) - Red teaming / Finding a Prompt attack for an LLM using DSPy. [Article](https://blog.haizelabs.com/posts/dspy/)
 - [DSPy Indic](https://github.com/saifulhaq95/DSPy-Indic) - DSPy program for tasks in Indian Languages.
 - [DSPy with LLamaIndex](https://github.com/Pavankunchala/LLM-Learn-PK/tree/main/DSP/DSPy_llamaIndex)
-- [DSPy with Arize-Phoenix])(https://github.com/Arize-ai/phoenix/blob/cf97ddc438fd0e075f87b156a99cc930d4b31ca9/docs/tracing/integrations-tracing/dspy.md)
+- [DSPy with Arize-Phoenix]](https://github.com/Arize-ai/phoenix/blob/cf97ddc438fd0e075f87b156a99cc930d4b31ca9/docs/tracing/integrations-tracing/dspy.md)
 - [OpenInference DSPy Instrumentation](https://github.com/Arize-ai/openinference/tree/main/python/instrumentation/openinference-instrumentation-dspy)
 
 
