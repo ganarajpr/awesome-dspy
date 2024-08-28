@@ -70,6 +70,7 @@ A collection of awesome things regarding DSPy.
 - [DSPy Assertions: Computational Constraints for Self-Refining LM Pipelines // Arnav Singhvi](https://www.youtube.com/watch?v=NRc-y5Y70xU&ab_channel=MLOps.community)
 - [Building LLM Agents with Tool Use](https://www.youtube.com/watch?v=5drn2DO7gNY&ab_channel=JayAlammar)
 - [Llama 3 RAG Demo with DSPy Optimization, Ollama, and Weaviate! // Connor Shorten](https://www.youtube.com/watch?v=1h3_h8t3L14&ab_channel=ConnorShorten)
+- [MIPRO and DSPy with Krista Opsahl-Ong! - Weaviate Podcast #103](https://www.youtube.com/watch?v=skMH3DOV_UQ)
 
 
 ### Tutorials
