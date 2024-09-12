@@ -44,6 +44,7 @@ A collection of awesome things regarding DSPy.
 - [DSPy Assertions: Discussing Computational Constraints for Self-Refining Language Model Pipelines](https://arize.com/blog/dspy-assertions-computational-constraints/)
 - [Why I bet on DSPy](https://blog.isaacmiller.dev/posts/dspy)
 - [Monitoring & Tracing DSPy with Langtrace](https://langtrace.ai/blog/announcing-dspy-support-in-langtrace)
+- [DSPy in Production](https://portkey.ai/blog/dspy-in-production/)
 
 ### Twitter Threads
 - [Collection of compilers in DSPy](https://twitter.com/ecardenas300/status/1780631627275571471)
