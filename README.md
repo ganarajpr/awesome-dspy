@@ -26,6 +26,7 @@ A collection of awesome things regarding DSPy.
 - [DSPy with LLamaIndex](https://github.com/Pavankunchala/LLM-Learn-PK/tree/main/DSP/DSPy_llamaIndex)
 - [DSPy with Arize-Phoenix](https://github.com/Arize-ai/phoenix/blob/cf97ddc438fd0e075f87b156a99cc930d4b31ca9/docs/tracing/integrations-tracing/dspy.md)
 - [OpenInference DSPy Instrumentation](https://github.com/Arize-ai/openinference/tree/main/python/instrumentation/openinference-instrumentation-dspy)
+- [Opentelemetry tracing for DSPy with Langtrace](https://docs.langtrace.ai/supported-integrations/llm-frameworks/dspy#dspy)
 
 
 ### Blogs / Articles
@@ -42,6 +43,7 @@ A collection of awesome things regarding DSPy.
 - [Decision making ai agent with DSPY](https://www.lycee.ai/blog/decision-making-ai-agent-dspy)
 - [DSPy Assertions: Discussing Computational Constraints for Self-Refining Language Model Pipelines](https://arize.com/blog/dspy-assertions-computational-constraints/)
 - [Why I bet on DSPy](https://blog.isaacmiller.dev/posts/dspy)
+- [Monitoring & Tracing DSPy with Langtrace](https://langtrace.ai/blog/announcing-dspy-support-in-langtrace)
 
 ### Twitter Threads
 - [Collection of compilers in DSPy](https://twitter.com/ecardenas300/status/1780631627275571471)
