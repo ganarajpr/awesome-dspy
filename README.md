@@ -45,6 +45,7 @@ A collection of awesome things regarding DSPy.
 - [Why I bet on DSPy](https://blog.isaacmiller.dev/posts/dspy)
 - [Monitoring & Tracing DSPy with Langtrace](https://langtrace.ai/blog/announcing-dspy-support-in-langtrace)
 - [DSPy in Production](https://portkey.ai/blog/dspy-in-production/)
+- [Supercharge Your LLM Apps using DSPy and Langfuse](https://towardsdatascience.com/supercharge-your-llm-apps-using-dspy-and-langfuse-f83c02ba96a1?source=friends_link&sk=0f35cba0a99393112fd1a6925115dfbf)
 
 ### Twitter Threads
 - [Collection of compilers in DSPy](https://twitter.com/ecardenas300/status/1780631627275571471)
