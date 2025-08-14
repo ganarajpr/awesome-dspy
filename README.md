@@ -79,7 +79,7 @@ A collection of awesome things regarding DSPy.
 
 ### Tutorials
 
-- [Weaviate Recipes - DSPy](https://github.com/weaviate/recipes/tree/main/integrations/llm-frameworks/dspy)
+- [Weaviate Recipes - DSPy](https://github.com/weaviate/recipes/tree/main/integrations/llm-agent-frameworks/dspy)
 
 ### Papers
 
