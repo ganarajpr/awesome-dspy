@@ -50,9 +50,9 @@ A collection of awesome things regarding DSPy.
 ### Twitter Threads
 - [Collection of compilers in DSPy](https://twitter.com/ecardenas300/status/1780631627275571471)
 - [Improve Agent accuracy with DSPy](https://twitter.com/lateinteraction/status/1781026667798138962)
-- 
 
-
+### Newsletter
+- [DSPyWeekly](https://dspyweekly.com) 
 
 ### Videos
 - [Automating Prompt Engineering with DSPy // Cyrus Nouroozi, Contributor at DSPy - Arize:Observe](https://www.youtube.com/watch?v=q_hTvyBeKAc)
