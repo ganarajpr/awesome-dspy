@@ -9,6 +9,7 @@ A collection of awesome things regarding DSPy.
 
 ### Projects
 
+- [DSPydantic](https://github.com/davidberenstein1957/dspydantic) - DSPydantic: Auto-Optimize Your Pydantic Models with DSP
 - [DSPy Compounding Engineering](https://github.com/Strategic-Automation/dspy-compounding-engineering) - A local-first engineering agent that **learns from its own mistakes**. Features 10+ parallel DSPy review agents, ReAct planning, and a self-optimizing Knowledge Base that compounds intelligence over time.
 - [XMC](https://github.com/KarelDO/xmc.dspy) - Infer Retrieve Rank multi-label classification tasks with an extreme amount of classes (≥10,000 classes)
 - [dspy-arxiv](https://github.com/S1M0N38/dspy-arxiv) - Explore the use of DSPy for extracting features from PDFs
