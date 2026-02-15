@@ -30,6 +30,7 @@ A collection of awesome things regarding DSPy.
 - [OpenInference DSPy Instrumentation](https://github.com/Arize-ai/openinference/tree/main/python/instrumentation/openinference-instrumentation-dspy)
 - [Opentelemetry tracing for DSPy with Langtrace](https://docs.langtrace.ai/supported-integrations/llm-frameworks/dspy#dspy)
 - [Chemistry Augmented Generationn](https://github.com/scottmreed/chemistry-augmented-generation) MIPRO based optimization of chemical property prediction
+- [voicetest](https://github.com/voicetestdev/voicetest) - Open-source test harness for voice AI agents that uses DSPy signatures for LLM-based evaluation of call transcripts.
 
 ### Blogs / Articles
 - [Prompt engineering is a task best left to AI models](https://www.theregister.com/2024/02/22/prompt_engineering_ai_models/)
