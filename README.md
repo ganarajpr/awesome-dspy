@@ -30,6 +30,7 @@ A collection of awesome things regarding DSPy.
 - [OpenInference DSPy Instrumentation](https://github.com/Arize-ai/openinference/tree/main/python/instrumentation/openinference-instrumentation-dspy)
 - [Opentelemetry tracing for DSPy with Langtrace](https://docs.langtrace.ai/supported-integrations/llm-frameworks/dspy#dspy)
 - [Chemistry Augmented Generationn](https://github.com/scottmreed/chemistry-augmented-generation) MIPRO based optimization of chemical property prediction
+- [AlgoVoi DSPy Adapter](https://github.com/chopmob-cloud/AlgoVoi-Platform-Adapters/tree/master/ai-agent-frameworks/dspy) - Accept crypto payments (USDC, native ALGO/VOI/HBAR/XLM) inside DSPy pipelines on Algorand, VOI, Hedera, and Stellar — gate signatures behind MPP / x402 / AP2 challenges, verify on-chain payments from `dspy.Module`s.
 
 ### Blogs / Articles
 - [Prompt engineering is a task best left to AI models](https://www.theregister.com/2024/02/22/prompt_engineering_ai_models/)
