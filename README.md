@@ -30,6 +30,7 @@ A collection of awesome things regarding DSPy.
 - [OpenInference DSPy Instrumentation](https://github.com/Arize-ai/openinference/tree/main/python/instrumentation/openinference-instrumentation-dspy)
 - [Opentelemetry tracing for DSPy with Langtrace](https://docs.langtrace.ai/supported-integrations/llm-frameworks/dspy#dspy)
 - [Chemistry Augmented Generationn](https://github.com/scottmreed/chemistry-augmented-generation) MIPRO based optimization of chemical property prediction
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - MCP server providing real-time trust scoring (0-100) for autonomous agents in the x402 micropayment ecosystem; use `score_agent` and `preflight_check` tools with DSPy's MCP integration to gate agent decisions on on-chain trust.
 
 ### Blogs / Articles
 - [Prompt engineering is a task best left to AI models](https://www.theregister.com/2024/02/22/prompt_engineering_ai_models/)
