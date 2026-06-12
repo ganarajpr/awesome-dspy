@@ -30,6 +30,7 @@ A collection of awesome things regarding DSPy.
 - [OpenInference DSPy Instrumentation](https://github.com/Arize-ai/openinference/tree/main/python/instrumentation/openinference-instrumentation-dspy)
 - [Opentelemetry tracing for DSPy with Langtrace](https://docs.langtrace.ai/supported-integrations/llm-frameworks/dspy#dspy)
 - [Chemistry Augmented Generationn](https://github.com/scottmreed/chemistry-augmented-generation) MIPRO based optimization of chemical property prediction
+- [Superhighway](https://superhighway.walls.sh/guides/web-search-dspy) - Real-time web search for DSPy programs — wrap `/search`, `/news`, `/images`, `/scrape`, and `/research` as a `dspy.Tool` for ReAct agents or as a custom `dspy.Module`. Pay-per-call API with a free tier; guide includes runnable examples.
 
 ### Blogs / Articles
 - [Prompt engineering is a task best left to AI models](https://www.theregister.com/2024/02/22/prompt_engineering_ai_models/)
