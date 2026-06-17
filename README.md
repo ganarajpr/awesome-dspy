@@ -28,6 +28,7 @@ A collection of awesome things regarding DSPy.
 - [DSPy Indic](https://github.com/saifulhaq95/DSPy-Indic) - DSPy program for tasks in Indian Languages.
 - [DSPy with LLamaIndex](https://github.com/Pavankunchala/LLM-Learn-PK/tree/main/DSP/DSPy_llamaIndex)
 - [DSPy with Arize-Phoenix](https://github.com/Arize-ai/phoenix/blob/cf97ddc438fd0e075f87b156a99cc930d4b31ca9/docs/tracing/integrations-tracing/dspy.md)
+- [DSPy with Opik](https://www.comet.com/docs/opik/integrations/dspy) - Log DSPy runs with tracing, evaluations, and prompt optimization workflows.
 - [OpenInference DSPy Instrumentation](https://github.com/Arize-ai/openinference/tree/main/python/instrumentation/openinference-instrumentation-dspy)
 - [Opentelemetry tracing for DSPy with Langtrace](https://docs.langtrace.ai/supported-integrations/llm-frameworks/dspy#dspy)
 - [DSPy with Future AGI](https://docs.futureagi.com/integrations/dspy)
