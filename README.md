@@ -84,6 +84,7 @@ A collection of awesome things regarding DSPy.
 ### Tutorials
 
 - [Weaviate Recipes - DSPy](https://github.com/weaviate/recipes/tree/main/integrations/llm-agent-frameworks/dspy)
+- [Building LLM Applications with DSPy - book](https://www.manning.com/books/building-llm-applications-with-dspy)
 
 ### Papers
 
