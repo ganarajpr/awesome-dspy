@@ -32,6 +32,7 @@ A collection of awesome things regarding DSPy.
 - [DSPy with Opik](https://www.comet.com/docs/opik/integrations/dspy) - Log DSPy runs with tracing, evaluations, and prompt optimization workflows.
 - [OpenInference DSPy Instrumentation](https://github.com/Arize-ai/openinference/tree/main/python/instrumentation/openinference-instrumentation-dspy)
 - [Opentelemetry tracing for DSPy with Langtrace](https://docs.langtrace.ai/supported-integrations/llm-frameworks/dspy#dspy)
+* [DSPy with Raindrop](https://docs.raindrop.ai/integrations/dspy) - Observability integration for DSPy that wraps modules (Predict, ChainOfThought, etc.) to automatically capture inputs, outputs, model, and token usage.
 - [DSPy with Future AGI](https://docs.futureagi.com/integrations/dspy)
 - [Chemistry Augmented Generationn](https://github.com/scottmreed/chemistry-augmented-generation) MIPRO based optimization of chemical property prediction
 - [Superhighway](https://superhighway.walls.sh/guides/web-search-dspy) - Real-time web search for DSPy programs — wrap `/search`, `/news`, `/images`, `/scrape`, and `/research` as a `dspy.Tool` for ReAct agents or as a custom `dspy.Module`. Pay-per-call API with a free tier; guide includes runnable examples.
