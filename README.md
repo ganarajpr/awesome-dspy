@@ -37,6 +37,7 @@ A collection of awesome things regarding DSPy.
 - [Superhighway](https://superhighway.walls.sh/guides/web-search-dspy) - Real-time web search for DSPy programs — wrap `/search`, `/news`, `/images`, `/scrape`, and `/research` as a `dspy.Tool` for ReAct agents or as a custom `dspy.Module`. Pay-per-call API with a free tier; guide includes runnable examples.
 - [voicetest](https://github.com/voicetestdev/voicetest) - Open-source test harness for voice AI agents that uses DSPy signatures for LLM-based evaluation of call transcripts.
 - [AlgoVoi DSPy Adapter](https://github.com/chopmob-cloud/AlgoVoi-Platform-Adapters/tree/master/ai-agent-frameworks/dspy) - Accept crypto payments (USDC, native ALGO/VOI/HBAR/XLM/ETH/SOL) inside DSPy pipelines on Algorand, VOI, Hedera, Stellar, Base, Solana, and Tempo — gate signatures behind MPP / x402 / AP2 challenges, verify on-chain payments from `dspy.Module`s.
+- [chDB tools for DSPy](https://github.com/chdb-io/cookbook/tree/main/dspy-chdb) - Analytical SQL tools for dspy.ReAct backed by chDB, the in-process ClickHouse engine. Plain typed callables (no adapter classes) that query Parquet/CSV/JSON files, S3, and remote databases with no server or credentials; wrong queries return typed engine errors in the trajectory for the model to correct.
 
 ### Blogs / Articles
 - [Prompt engineering is a task best left to AI models](https://www.theregister.com/2024/02/22/prompt_engineering_ai_models/)
