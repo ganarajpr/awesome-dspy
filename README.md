@@ -37,6 +37,7 @@ A collection of awesome things regarding DSPy.
 - [Superhighway](https://superhighway.walls.sh/guides/web-search-dspy) - Real-time web search for DSPy programs — wrap `/search`, `/news`, `/images`, `/scrape`, and `/research` as a `dspy.Tool` for ReAct agents or as a custom `dspy.Module`. Pay-per-call API with a free tier; guide includes runnable examples.
 - [voicetest](https://github.com/voicetestdev/voicetest) - Open-source test harness for voice AI agents that uses DSPy signatures for LLM-based evaluation of call transcripts.
 - [AlgoVoi DSPy Adapter](https://github.com/chopmob-cloud/AlgoVoi-Platform-Adapters/tree/master/ai-agent-frameworks/dspy) - Accept crypto payments (USDC, native ALGO/VOI/HBAR/XLM/ETH/SOL) inside DSPy pipelines on Algorand, VOI, Hedera, Stellar, Base, Solana, and Tempo — gate signatures behind MPP / x402 / AP2 challenges, verify on-chain payments from `dspy.Module`s.
+- [TS-DSPy](https://github.com/ardada2468/LLMTypeSafe) - DSPy for TypeScript. Signatures are declared as classes or strings, model output is validated against them at runtime with zod, and OpenAI, Anthropic, and Gemini sit behind one interface. Includes Predict, ChainOfThought, and a ReAct-style tool loop.
 
 ### Blogs / Articles
 - [Prompt engineering is a task best left to AI models](https://www.theregister.com/2024/02/22/prompt_engineering_ai_models/)
