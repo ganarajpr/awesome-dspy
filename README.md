@@ -39,6 +39,7 @@ A collection of awesome things regarding DSPy.
 - [voicetest](https://github.com/voicetestdev/voicetest) - Open-source test harness for voice AI agents that uses DSPy signatures for LLM-based evaluation of call transcripts.
 - [AlgoVoi DSPy Adapter](https://github.com/chopmob-cloud/AlgoVoi-Platform-Adapters/tree/master/ai-agent-frameworks/dspy) - Accept crypto payments (USDC, native ALGO/VOI/HBAR/XLM/ETH/SOL) inside DSPy pipelines on Algorand, VOI, Hedera, Stellar, Base, Solana, and Tempo — gate signatures behind MPP / x402 / AP2 challenges, verify on-chain payments from `dspy.Module`s.
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a DSPy program's LM traffic at the provider boundary and replays it offline with no model called; `orca record generic-openai -- python your_program.py` works because DSPy's LiteLLM path honours both `OPENAI_API_BASE` and `OPENAI_BASE_URL` (measured on dspy 3.3.1 / litellm 1.101.0), and replay can fork from any step onto a different model
+- [llm-schema-lite](https://github.com/rohitgarud/llm-schema-lite) - Drop-in `dspy.Adapter` that swaps the JSON Schema block in DSPy prompts for a compact schema with constraints inline (typically 40-70% fewer schema tokens) and adds parse-time repair for small-model replies; also ships `JevAdapter` / `SemIfLM` for logit-based yes/no judging with local models. `pip install "llm-schema-lite[dspy]"`
 
 ### Blogs / Articles
 - [Prompt engineering is a task best left to AI models](https://www.theregister.com/2024/02/22/prompt_engineering_ai_models/)
