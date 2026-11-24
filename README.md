@@ -44,6 +44,7 @@ A collection of awesome things regarding DSPy.
 - [TS-DSPy](https://github.com/ardada2468/LLMTypeSafe) - DSPy for TypeScript. Signatures are declared as classes or strings, model output is validated against them at runtime with zod, and OpenAI, Anthropic, and Gemini sit behind one interface. Includes Predict, ChainOfThought, and a ReAct-style tool loop.
 - [llm-schema-lite](https://github.com/rohitgarud/llm-schema-lite) - Drop-in `dspy.Adapter` that swaps the JSON Schema block in DSPy prompts for a compact schema with constraints inline (typically 40-70% fewer schema tokens) and adds parse-time repair for small-model replies; also ships `JevAdapter` / `SemIfLM` for logit-based yes/no judging with local models. `pip install "llm-schema-lite[dspy]"`
 - [reliopt](https://github.com/obielin/reliopt) - Reliability-constrained, multi-objective optimization for LLM/agent programs — contract-gated Pareto frontiers instead of a single blended score.
+- [ag-ui-dspy](https://github.com/wrabit/ag-ui-dspy) - Wraps a `dspy.Module` so it outputs [AG-UI](https://docs.ag-ui.com) events: streamed answers, tool calls and frontend tool calls. Lets you use CopilotKit or any other AG-UI front end with a DSPy agent. `pip install ag-ui-dspy`
 
 ### Blogs / Articles
 - [Prompt engineering is a task best left to AI models](https://www.theregister.com/2024/02/22/prompt_engineering_ai_models/)
